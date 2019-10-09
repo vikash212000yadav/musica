@@ -1,3 +1,4 @@
+
 var AlbumsListPage = {
 	init: function() {
 		this.$container = $('.albums-container');
